@@ -1,0 +1,25 @@
+body { text-align: center;
+    background-color: turquoise;
+
+}
+h1 {
+    padding: 10px;
+    color:rgb(222, 238, 223) ;
+    margin: 40px;
+    font-size: 60px;
+    
+}
+img {
+    width: 700;
+    height: 800px;
+    align-items: center;
+}
+p {
+    width: 50%;
+    margin: auto;
+    font-size: larger;
+}
+h2 {
+    color: rgb(240, 128, 16);
+    font-size: 40px;
+}
